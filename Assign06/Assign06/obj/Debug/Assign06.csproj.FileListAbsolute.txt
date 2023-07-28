@@ -1,0 +1,14 @@
+C:\Users\maste\source\repos\Assign06\Assign06\bin\Debug\Assign06.exe.config
+C:\Users\maste\source\repos\Assign06\Assign06\bin\Debug\Assign06.exe
+C:\Users\maste\source\repos\Assign06\Assign06\bin\Debug\Assign06.pdb
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.csproj.AssemblyReference.cache
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.Form1.resources
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.Properties.Resources.resources
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.exe
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.pdb
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.Add_New_Student.resources
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.Update_Score.resources
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.Update_Student_Scores.resources
+C:\Users\maste\source\repos\Assign06\Assign06\obj\Debug\Assign06.Add_Score.resources
